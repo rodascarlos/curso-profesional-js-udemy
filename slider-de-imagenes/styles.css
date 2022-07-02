@@ -1,0 +1,15 @@
+#slider-container{
+    width: 800px;
+}
+
+#slider-container #buttons-container{
+    text-align: center;
+}
+
+.item{
+    display: none;
+}
+
+#slider-container .item-active{
+    display: block;
+}
